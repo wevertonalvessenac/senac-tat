@@ -1,5 +1,8 @@
+Esc:    sair
+q:      pra sair
 #01:	Visualização
 #02: 	Esc Shift : 	Comando
+q!:     sair forçado
 #03:	Insert (I):		Inserir
 		Insert	  :		Substituir
 #04:	Sair Forçado	! (Exclamação)
