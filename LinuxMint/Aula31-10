@@ -1,0 +1,25 @@
+#01:	Visualização
+#02: 	Esc Shift : 	Comando
+#03:	Insert (I):		Inserir
+		Insert	  :		Substituir
+#04:	Sair Forçado	! (Exclamação)
+--------------------------------------
+		Sair Salvando	:wq
+		Sair Salvando	:x 
+		Colar			Ctrl Shift V
+--------------------------------------
+		Explorar		:e.	listar os arquivos no diretório
+						:e nome_arquivo (TAB Funciona)
+--------------------------------------
+		Deletar			dd
+		Deletar Tudo	dG	(Destruir)
+		Desfazer		u	(Construir)
+		Refazer			Ctrl R
+		Ir para Fim		:$
+		Inicio 			:0
+		Número de Linha	:set number
+		Temporário		vim /tmp/senai.html
+-------------------------------------------------------------
+Divida a tela verticalmente = vsplit
+dividir em tela horizontal = split
+navegar entre janelas = Ctrl + w e as letras L,K,J,H
